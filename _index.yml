@@ -1,0 +1,48 @@
+---
+product-family:
+  title: Documentation StorageGRID
+  lead: NetApp StorageGRID est une suite de stockage objet Software-defined qui prend
+    en charge un large éventail d'utilisations dans les environnements multiclouds
+    publics, privés et hybrides. StorageGRID offre une prise en charge native de l'API
+    Amazon S3 et propose des innovations de pointe, telles que la gestion automatisée
+    du cycle de vie, pour stocker, sécuriser, protéger et conserver les données non
+    structurées de manière économique sur de longues périodes.
+  summary: NetApp StorageGRID est une suite de stockage objet Software-defined qui
+    prend en charge un large éventail d'utilisations dans les environnements multiclouds
+    publics, privés et hybrides. StorageGRID offre une prise en charge native de l'API
+    Amazon S3 et propose des innovations de pointe, telles que la gestion automatisée
+    du cycle de vie, pour stocker, sécuriser, protéger et conserver les données non
+    structurées de manière économique sur de longues périodes.
+  sidebarlinks:
+  - title: Tout
+    tags: all
+    class: active
+  - title: Commencez
+    tags: get_started
+  - title: Configurer et utiliser le logiciel
+    tags: storagegrid
+  - title: Installez et entretenez les appliances
+    tags: appliances
+  - title: Intégrer et favoriser l'intégration
+    tags: enable
+  tiles:
+  - title: Découvrez StorageGRID
+    icon: "./media/groups_line.png"
+    url: intro-family.html
+    summary: Découvrez StorageGRID.
+    tags: all, get_started, storagegrid, appliances, enable
+  - title: Documentation StorageGRID 11.8
+    icon: "./media/config_line.png"
+    url: "../storagegrid-118/index.html"
+    summary: Configurez et utilisez le logiciel StorageGRID 11.8.
+    tags: all, storagegrid
+  - title: Appliances StorageGRID
+    icon: "./media/icon-onprem.png"
+    url: "../storagegrid-appliances/index.html"
+    summary: Installez et entretenez les appliances StorageGRID.
+    tags: all, appliances
+  - title: Activez StorageGRID
+    icon: "./media/synergy.png"
+    url: "../storagegrid-enable/index.html"
+    summary: Test, intégration et activation de StorageGRID
+    tags: all, enable
