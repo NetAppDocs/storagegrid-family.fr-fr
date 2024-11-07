@@ -1,13 +1,13 @@
 ---
 settings:
   name: StorageGRID
-  search: storagegrid-enable,storagegrid-118,storagegrid-appliances
+  search: storagegrid-enable,storagegrid,storagegrid-appliances
   internal:
     pdf_enabled: false
   prod:
     pdf_enabled: false
     harmony_enabled: false
-  langs: fr-fr,us-en,de-de,es-es,it-it,pt-br,ja-jp,ko-kr,zh-cn,zh-tw
+  langs: fr-fr,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es,it-it
 sidebar:
   entries:
   - title: Documentation du produit StorageGRID

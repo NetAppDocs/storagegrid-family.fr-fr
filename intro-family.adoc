@@ -21,10 +21,10 @@ StorageGRID se compose de nœuds hétérogènes, redondants et répartis géogra
 
 == Avantages de StorageGRID
 
-La baie StorageGRID présente plusieurs avantages :
+Les avantages du système StorageGRID sont les suivants :
 
-* Référentiel de données distribué géographiquement extrêmement évolutif et facile à utiliser pour les données non structurées.
-* Prise en charge du protocole Amazon Web Services simple Storage Service (S3
+* Référentiel de données distribué géographiquement, extrêmement évolutif et facile à utiliser pour les données non structurées.
+* Prise en charge du protocole Amazon Web Services simple Storage Service (S3)
 * Compatibilité avec le cloud hybride. La gestion du cycle de vie des informations basée sur des règles stocke les objets dans des clouds publics, notamment Amazon Web Services (AWS) et Microsoft Azure. Les services de plateforme StorageGRID permettent la réplication de contenu, la notification d'événements et la recherche de métadonnées d'objets stockés dans les clouds publics.
 * Protection flexible des données pour assurer la durabilité et la disponibilité. Les données peuvent être protégées au moyen de la réplication et du code d'effacement à plusieurs couches. La vérification des données au repos et à la volée garantit l'intégrité des données conservées à long terme.
 * Gestion dynamique du cycle de vie des données pour vous aider à gérer les coûts de stockage. Vous pouvez créer des règles ILM pour gérer le cycle de vie des données au niveau de l'objet, et personnaliser la localisation, la durabilité, les performances, les coûts et la durée de conservation des données.
@@ -56,20 +56,21 @@ La baie StorageGRID présente plusieurs avantages :
 
 
 
-== Logiciel StorageGRID
+== Documentation StorageGRID
 
-* https://docs.netapp.com/us-en/storagegrid-118/["Documents relatifs à StorageGRID 11.8"^]
-* https://docs.netapp.com/us-en/storagegrid-117/["Documents relatifs à StorageGRID 11.7"^]
-* https://docs.netapp.com/us-en/storagegrid-116/["Documents relatifs à StorageGRID 11.6"^]
-* https://docs.netapp.com/us-en/storagegrid-115/["Documents relatifs à StorageGRID 11.5"^]
-* https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61023["Documents relatifs à StorageGRID 11.4"^]
+* https://docs.netapp.com/us-en/storagegrid/["Site de documentation du logiciel StorageGRID"^]
+* https://docs.netapp.com/us-en/storagegrid-appliances/["Site du document appliances StorageGRID"^]
 
 
+Vous trouverez la documentation des versions antérieures du logiciel StorageGRID ici :
 
-
-== Appliances StorageGRID
-
-* https://docs.netapp.com/us-en/storagegrid-appliances/["Appliances StorageGRID"^]
+* https://docs.netapp.com/us-en/storagegrid-118/index.html["Documentation StorageGRID 11.8"^]
+* https://docs.netapp.com/us-en/storagegrid-117/index.html["Documentation StorageGRID 11.7"^]
+* https://docs.netapp.com/us-en/storagegrid-116/index.html["Documentation StorageGRID 11.6"^]
+* https://docs.netapp.com/us-en/storagegrid-115/index.html["Documentation StorageGRID 11.5"^]
+* https://docs.netapp.com/sgws-114/index.jsp["Centre de documentation StorageGRID 11.4"^]
+* https://docs.netapp.com/sgws-113/index.jsp["Centre de documentation StorageGRID 11.3"^]
+* https://docs.netapp.com/sgws-112/index.jsp["Centre de documentation StorageGRID 11.2"^]
 
 
 

@@ -5,9 +5,6 @@
   <block id="4103efcb405cc1121103531bf09c715d" category="paragraph">StorageGRID offre un stockage sécurisé et durable pour les données non structurées à grande échelle. Des règles intégrées de gestion du cycle de vie basées sur des métadonnées optimisent l'emplacement des données tout au long de leur vie. Les contenus sont placés au bon endroit, au bon moment et sur le Tier de stockage adéquat pour réduire les coûts.</block>
   <block id="2ba3c537f55a653f682dcc17939b5db3" category="paragraph">StorageGRID se compose de nœuds hétérogènes, redondants et répartis géographiquement, qui peuvent être intégrés aux applications client existantes et nouvelle génération.</block>
   <block id="8eec3f2e5c96b2a164209e8f32f4ee0f" category="section-title">Avantages de StorageGRID</block>
-  <block id="71f7459e7e82312f4969ac698c7c0434" category="paragraph">La baie StorageGRID présente plusieurs avantages :</block>
-  <block id="9bcc6b6f2deb9d2acce755b03630840c" category="list-text">Référentiel de données distribué géographiquement extrêmement évolutif et facile à utiliser pour les données non structurées.</block>
-  <block id="18bde5c8ee320ea49ba70e35d2239ecf" category="list-text">Prise en charge du protocole Amazon Web Services simple Storage Service (S3</block>
   <block id="4bf292ec47b1a0a2f20bd493ae425806" category="list-text">Compatibilité avec le cloud hybride. La gestion du cycle de vie des informations basée sur des règles stocke les objets dans des clouds publics, notamment Amazon Web Services (AWS) et Microsoft Azure. Les services de plateforme StorageGRID permettent la réplication de contenu, la notification d'événements et la recherche de métadonnées d'objets stockés dans les clouds publics.</block>
   <block id="84b564142dcdb248382f6f1fe90469d7" category="list-text">Protection flexible des données pour assurer la durabilité et la disponibilité. Les données peuvent être protégées au moyen de la réplication et du code d'effacement à plusieurs couches. La vérification des données au repos et à la volée garantit l'intégrité des données conservées à long terme.</block>
   <block id="0eb71cf924e8b745d26e24ae56842668" category="list-text">Gestion dynamique du cycle de vie des données pour vous aider à gérer les coûts de stockage. Vous pouvez créer des règles ILM pour gérer le cycle de vie des données au niveau de l'objet, et personnaliser la localisation, la durabilité, les performances, les coûts et la durée de conservation des données.</block>
@@ -26,19 +23,7 @@
   <block id="14c8ef59a622fc7a7db7883604504c4d" category="list-text">La Commodity futures Trading Commission (CFTC) dans le règlement 17 CFR § 1.31(c)-(d), qui réglemente la négociation des marchandises à terme.</block>
   <block id="b084a731794587a11af81afbc77326a5" category="list-text">Les opérations de mise à niveau et de maintenance sans interruption. Maintenez l'accès au contenu lors des procédures de mise à niveau, d'extension, de déclassement et de maintenance.</block>
   <block id="0efa1e4882326f4a16d4e2d9f490a268" category="list-text">Gestion fédérée des identités. S'intègre à Active Directory, OpenLDAP ou Oracle Directory Service pour l'authentification des utilisateurs. Prise en charge de l'authentification unique (SSO) à l'aide de la norme SAML 2.0 (Security assertion Markup Language 2.0) pour échanger les données d'authentification et d'autorisation entre StorageGRID et Active Directory Federation Services (AD FS).</block>
-  <block id="2d4f4568ad652ff08727bc044f1373cc" category="section-title">Logiciel StorageGRID</block>
-  <block id="30be66bcfef2e328f8fadba5f17d7d53" category="inline-link">Documents relatifs à StorageGRID 11.8</block>
-  <block id="791d2160592b03552a353b3c990254af" category="list-text"><block ref="791d2160592b03552a353b3c990254af" category="inline-link-rx"></block></block>
-  <block id="0d88061b25d41ea9ebd2a838d2e7d97c" category="inline-link">Documents relatifs à StorageGRID 11.7</block>
-  <block id="23ba15311ab61c5cbe711a6e2af03fb8" category="list-text"><block ref="23ba15311ab61c5cbe711a6e2af03fb8" category="inline-link-rx"></block></block>
-  <block id="d230fedbcdb888124f0cd7c7b8424de2" category="inline-link">Documents relatifs à StorageGRID 11.6</block>
-  <block id="361b412f71e99d816037ef3fa0afc82e" category="list-text"><block ref="361b412f71e99d816037ef3fa0afc82e" category="inline-link-rx"></block></block>
-  <block id="ab398ea621033d0dc867640f4114bddd" category="inline-link">Documents relatifs à StorageGRID 11.5</block>
-  <block id="f1ab3ca97f008a1135bcf43e6777236b" category="list-text"><block ref="f1ab3ca97f008a1135bcf43e6777236b" category="inline-link-rx"></block></block>
-  <block id="cdf357067f64d280c93a14932a48e892" category="inline-link">Documents relatifs à StorageGRID 11.4</block>
-  <block id="e57f93d05d4a3ec00b3bc61307781a1c" category="list-text"><block ref="e57f93d05d4a3ec00b3bc61307781a1c" category="inline-link-rx"></block></block>
   <block id="9283e244bcd98f1bdd350c1b4f2da148" category="section-title">Appliances StorageGRID</block>
-  <block id="3ac6c44d69f35b6d74f7324d21a94cc3" category="list-text"><block ref="3ac6c44d69f35b6d74f7324d21a94cc3" category="inline-link-rx"></block></block>
   <block id="696ea9ebe2a9f57bb062aba5c1d58b10" category="section-title">Activation de StorageGRID dans votre environnement</block>
   <block id="fa7f52ddda62fe1d2363b41a26e0b3d7" category="paragraph">Accédez à<block ref="0e0fa9204b8188a393de62aba466cfd2" category="inline-link-rx"></block> Pour savoir comment tester et activer les applications dans votre environnement StorageGRID.</block>
   <block id="73d37b18fd6bead589b7f5fbc79b27fe" category="paragraph">Le site de documentation *storagegrid-enable* fournit des exemples et des livres de cuisine qui s'étendent sur la documentation produit de ce site, et il décrit quelques étapes suivantes dans l'évaluation et l'intégration avec StorageGRID.</block>
@@ -53,11 +38,32 @@
   <block id="5a76b3354641a0ee1eafa565566eb40c" category="sidebar">Configurer et utiliser le logiciel</block>
   <block id="54443d07c5144ff60a6d1b392bfa38ab" category="sidebar">Installez et entretenez les appliances</block>
   <block id="70f6d24bd76769700db7148daa023203" category="sidebar">Intégrer et favoriser l'intégration</block>
-  <block id="f28dd420a905feeaad6af72f8f14c37a" category="sidebar">Découvrez StorageGRID.</block>
   <block id="7bb5d1e21ca0bacc168d63d7155d3755" category="sidebar">Documentation StorageGRID 11.8</block>
-  <block id="b94aedd414153a7e1052ca7ea0520bb9" category="sidebar">Configurez et utilisez le logiciel StorageGRID 11.8.</block>
   <block id="712e6d735bf838e66fe9802328c8678c" category="sidebar">Installez et entretenez les appliances StorageGRID.</block>
   <block id="09f63f5e49731771c9b8f2aea5094d6c" category="sidebar">Activez StorageGRID</block>
   <block id="bf71942427df023dd78c7339d32c9019" category="sidebar">Test, intégration et activation de StorageGRID</block>
   <block id="4513d952ab095f79bf0ba9f1fbf61b7e" category="sidebar">Documentation du produit StorageGRID</block>
+  <block id="2903b0229e2eabe7c06f0db799dc3424" category="paragraph">Les avantages du système StorageGRID sont les suivants :</block>
+  <block id="6bac41b78c47bbdcd0cafef5d505da74" category="list-text">Référentiel de données distribué géographiquement, extrêmement évolutif et facile à utiliser pour les données non structurées.</block>
+  <block id="23970cc35d4e2b1393fc3878424c43dc" category="list-text">Prise en charge du protocole Amazon Web Services simple Storage Service (S3)</block>
+  <block id="65ed462b9954d185b33ec893e0694fde" category="inline-link">Site de documentation du logiciel StorageGRID</block>
+  <block id="a8a77bc8d6a381cf2a2b861ba17e77d7" category="list-text"><block ref="a8a77bc8d6a381cf2a2b861ba17e77d7" category="inline-link-rx"></block></block>
+  <block id="c4b124e5c6e5957ba8d2e961d19ec1a3" category="inline-link">Site du document appliances StorageGRID</block>
+  <block id="2bbc4d82257413d32fdd3c1fecf7044f" category="list-text"><block ref="2bbc4d82257413d32fdd3c1fecf7044f" category="inline-link-rx"></block></block>
+  <block id="fe7be6f6193a6b19e7ebe5d40be64a0f" category="paragraph">Vous trouverez la documentation des versions antérieures du logiciel StorageGRID ici :</block>
+  <block id="d9419a01ee4fdcd160bf1446e5a481f5" category="list-text"><block ref="d9419a01ee4fdcd160bf1446e5a481f5" category="inline-link-rx"></block></block>
+  <block id="444a66aeef372672e744a05782bffa7c" category="inline-link">Documentation StorageGRID 11.7</block>
+  <block id="a6b4363f6225727f0507281f9ae58717" category="list-text"><block ref="a6b4363f6225727f0507281f9ae58717" category="inline-link-rx"></block></block>
+  <block id="b6a6856979f644f23831092a77a579ae" category="inline-link">Documentation StorageGRID 11.6</block>
+  <block id="ebe15b7f3ab23a21b80c2db319837831" category="list-text"><block ref="ebe15b7f3ab23a21b80c2db319837831" category="inline-link-rx"></block></block>
+  <block id="6d307701f8a2621afa3c68f86b66b9f7" category="inline-link">Documentation StorageGRID 11.5</block>
+  <block id="57e1c48b034af2352e5a69534ab37dd2" category="list-text"><block ref="57e1c48b034af2352e5a69534ab37dd2" category="inline-link-rx"></block></block>
+  <block id="50c142f8f9e19c4c84cb06dbc431b229" category="inline-link">Centre de documentation StorageGRID 11.4</block>
+  <block id="71be9d9e0df7c2f5699834ae68011996" category="list-text"><block ref="71be9d9e0df7c2f5699834ae68011996" category="inline-link-rx"></block></block>
+  <block id="bab03a68f7e57fdecf1481852ac62d80" category="inline-link">Centre de documentation StorageGRID 11.3</block>
+  <block id="d2ca6fb14c69e8ac834f4f43b0f0e9d8" category="list-text"><block ref="d2ca6fb14c69e8ac834f4f43b0f0e9d8" category="inline-link-rx"></block></block>
+  <block id="e58d2e166dc215d59ad9458a7cef9dc8" category="inline-link">Centre de documentation StorageGRID 11.2</block>
+  <block id="dac584c7df1389d2899102bbaee99832" category="list-text"><block ref="dac584c7df1389d2899102bbaee99832" category="inline-link-rx"></block></block>
+  <block id="6ba5a3e836a472999763351a7cad7f18" category="sidebar">En savoir plus sur StorageGRID et accéder à la documentation des versions antérieures de StorageGRID.</block>
+  <block id="e9f9bf9315d711c436dc24b43b0201ea" category="sidebar">Installez, configurez et gérez le logiciel StorageGRID le plus récent.</block>
 </blocks>
